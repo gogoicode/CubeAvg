@@ -1,4 +1,4 @@
-# CubeAvg - Rubik's Cube Average Calculator 🧊
+# CubeAvg - Rubik's Cube Average Calculator
 
 **CubeAvg** is a BCA Final Year Project that automates the process of calculating average solving times for a Rubik's Cube. It takes an image of a scorecard as input, extracts the solving times using Optical Character Recognition (OCR), and instantly calculates the Best, Worst, and Average times.
 
@@ -72,3 +72,8 @@ Before running the project, ensure you have the following installed:
 5. The extracted text is parsed, cleaned, and converted into seconds.
 6. The backend calculates the Best, Worst, and Average times, and returns the JSON payload back to the app.
 7. The app displays the result to the user in an interactive dialog.
+
+
+https://github.com/user-attachments/assets/2d268eaa-d38e-4dd7-a54e-ad4266271990
+
+
